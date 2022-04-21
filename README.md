@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iNamanAggarwal
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning full stack web development.
+- 🌱 MERN stack developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email ID - nmn.office@yahoo.com
 
